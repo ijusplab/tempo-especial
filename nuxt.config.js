@@ -2,9 +2,14 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  // For GitHub Pages
+  router: {
+    base: '/tempo-especial/'
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'tempo-especial',
+    title: 'Tempo Especial',
     htmlAttrs: {
       lang: 'en'
     },
@@ -45,7 +50,7 @@ export default {
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
-  content: {},
+  content: { },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
