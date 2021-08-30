@@ -1,0 +1,285 @@
+{
+  "titulo": "Decreto nº 53.831, de 25 de março de 1964",
+  "subtitulo": "Quadro Anexo (art. 2º) - AGENTES NOCIVOS",
+  "publicacao": "1964-03-30",
+  "periodo": {
+    "inicial": "",
+    "final": "1997-03-05"
+  },
+  "rotulos": {
+    "codigo": "Código",
+    "aplicacao": "Campo de Aplicação",
+    "atividades": "Serviços e Atividades Profissionais",
+    "classificacao": "Classificação",
+    "tempo_minimo": "Tempo e Trabalho Mínimo",
+    "observacoes": "Observações"
+  },
+  "secoes": [
+    {
+      "codigo": "1.1.0",
+      "titulo": "AGENTES FÍSICOS",
+      "itens": [
+        {
+          "codigo": "1.1.1",
+          "aplicacao": "Calor Operações em locais com temperatura excessivamente alta, capaz de ser nociva à saúde e proveniente de fontes artificiais.",
+          "atividades": "Trabalhos de tratamento térmico ou em ambientes excessivamente quentes. Forneiros, Foguistas, Fundidores, Forjadores, Calandristas, operadores de cabines cinematográficas e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal em locais com TE acima de 28º artigos 165, 187 e 234, da CLT. Port. Ministeriais 30 de 07.02.1958 e 262 de 06.08.1962."
+        },
+        {
+          "codigo": "1.1.2",
+          "aplicacao": "Frio Operações em locais com temperatura excessivamente baixa, capaz de ser nociva à saúde e proveniente de fontes artificiais.",
+          "atividades": "Trabalhos na Indústria do frio - operadores de câmaras frigoríficas e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal em locais com temperatura inferior à 12º Centígrados. Arts. 165, 187 da CLT e Port. Ministerial 262 de 06.08.1962."
+        },
+        {
+          "codigo": "1.1.3",
+          "aplicacao": "Umidade Operações em locais com umidade excessiva, capaz de ser nociva à saúde e proveniente de fontes artificiais.",
+          "atividades": "Trabalhos em contato direto e permanente com água - lavadores, tintureiros, operários nas salinas e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal em locais com umidade excessiva. Art. 187 da CLT e Port. Ministerial 262, de 6 de agôsto de 1962."
+        },
+        {
+          "codigo": "1.1.4",
+          "aplicacao": "Radiação Operações em locais com radiações capazes de serem nocivas à saúde - infravermelho, ultra-violeta, raios X, rádium e substâncias radioativas.",
+          "atividades": "Trabalhos expostos a radiações para fins industriais, diagnósticos e terapêuticos - Operadores de raios X, de rádium e substâncias radiativas, soldadores com arco elétrico e com oxiacetilênio, aeroviários de manutenção de aeronaves e motores, turbo-hélices e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em lei - Lei 1.234, de 14.11.1950; Lei 3.999, de 15.12.1961; art. 187 CLT; Decreto nº 1.232, de 22 de junho de 1962 e Port. Ministerial 262, de 6 de agôsto de 1962."
+        },
+        {
+          "codigo": "1.1.5",
+          "aplicacao": "Trepidação Operações com trepidações capazes de serem nocivas à saúde.",
+          "atividades": "Trepidações e vibrações industriais - Operadores de perfuratrizes e marteletes pneumáticos, e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal com máquinas acionadas a ar comprimido e velocidade acima de 120 golpes por minuto. Art. 187 CLT. Portaria Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.1.6",
+          "aplicacao": "Ruído Operações em locais com ruído excessivo capaz de ser nocivo à saúde.",
+          "atividades": "Trabalhos sujeitos aos efeitos de ruídos industriais excessivos - Caldereiros, operadores de máquinas pneumáticas, de motores - turbinas e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em lei locais com ruídos acima de 80 decibéis. Decreto nº 1.232, de 22 de junho de 1962. Portaria Ministerial 262, de 06.08.1962 e art. 187 CLT."
+        },
+        {
+          "codigo": "1.1.7",
+          "aplicacao": "Pressão Operações em locais com pressão atmosférica anormal capaz de ser nociva à saúde.",
+          "atividades": "Trabalhos em ambientes com alta ou baixa pressão - escafandristas, mergulhadores, operadores em caixões ou tubulações pneumáticos, e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em lei - artigos 187 e 219 CLT. Port. Ministerial 73, de 2 de janeiro de 1960 e 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.1.8",
+          "aplicacao": "Eletricidade Operações em locais com eletricidade em condições de perigo de vida.",
+          "atividades": "Trabalhos permanentes em instalações ou equipamentos elétricos com risco de acidentes - Eletricistas, cabistas, montadores, e outros.",
+          "classificacao": "Perigoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em lei em serviços expostos à tensão superior a 250 volts. Arts. 187, 195 e 196 CLT. Portaria Ministerial 34, de 08.04.1954."
+        }
+      ]
+    },
+    {
+      "codigo": "1.2.0",
+      "titulo": "AGENTES QUÍMICOS",
+      "itens": [
+        {
+          "codigo": "1.2.1",
+          "aplicacao": "Arsênico Operações com aparelho e seus compostos.",
+          "atividades": "I - Extração",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "20 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.1",
+          "aplicacao": "Arsênico Operações com aparelho e seus compostos.",
+          "atividades": "II - Fabricação de seus compostos e derivados - Tintas, parasiticidas e inseticidas etc.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "20 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.1",
+          "aplicacao": "Arsênico Operações com aparelho e seus compostos.",
+          "atividades": "III - Emprego de derivados arsenicais - Pintura, galvanotécnica, depilação, empalhamento, etc.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.2",
+          "aplicacao": "Berílio Operações com o berílio e seus compostos.",
+          "atividades": "Trabalhos permanentes expostos a poeiras e fumos - Fundição de ligas metálicas.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.3",
+          "aplicacao": "Cádmio Operações com o cádmio e seus compostos.",
+          "atividades": "Trabalhos permanentes expostos a poeiras e fumos - Fundição de ligas metálicas.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.4",
+          "aplicacao": "Chumbo Operações com o chumbo, seus sais e ligas",
+          "atividades": "I - Fundição, refino, moldagens, trefilação e laminação.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "20 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.4",
+          "aplicacao": "Chumbo Operações com o chumbo, seus sais e ligas",
+          "atividades": "II - Fabricação de artefatos e de produtos de chumbo - baterias, acumuladores, tintas etc.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.4",
+          "aplicacao": "Chumbo Operações com o chumbo, seus sais e ligas",
+          "atividades": "III - Limpeza, raspagens e demais trabalhos em tanques de gasolina contendo chumbo, tetra etil, polimento e acabamento de ligas de chumbo, etc.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.4",
+          "aplicacao": "Chumbo Operações com o chumbo, seus sais e ligas.",
+          "atividades": "IV - Soldagem e dessoldagem com ligas à base de chumbo, vulcanização da borracha, tinturaria, estamparia, pintura e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.5",
+          "aplicacao": "Cromo Operações com o cromo e seus sais.",
+          "atividades": "Trabalhos permanentes expostos ao tóxico - Fabricação, tanagem de couros, cromagem eletrolítica de metais e outras.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.6",
+          "aplicacao": "Fósforo Operações com o fósforo e seus compostos.",
+          "atividades": "I - Extração e depuração do fósforo branco e seus compostos.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "20 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.6",
+          "aplicacao": "Fósforo Operações com o fósforo e seus compostos.",
+          "atividades": "II - Fabricação de produtos fosforados asfixiantes, tóxicos, incendiários ou explosivos.",
+          "classificacao": "Insalubre Perigoso",
+          "tempo_minimo": "20 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.6",
+          "aplicacao": "Fósforo Operações com o fósforo e seus compostos.",
+          "atividades": "III - Emprego de líquidos, pastas, pós e gases à base de fósforo branco para destruição de ratos e parasitas.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.7",
+          "aplicacao": "Manganês Operações com o manganês.",
+          "atividades": "Trabalhos permanentes expostos à poeiras ou fumos do manganês e seus compostos (bióxido) - Metalurgia, cerâmica, indústria de vidros e outras.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.8",
+          "aplicacao": "Mercúrio Operações com mercúrio, seus sais e amálgamas.",
+          "atividades": "I - Extração e tratamento de amálgamas e compostos - Cloreto e fulminato de Hg.",
+          "classificacao": "Insalubre Perigoso",
+          "tempo_minimo": "20 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.8",
+          "aplicacao": "Mercúrio Operações com mercúrio, seus sais e amálgamas.",
+          "atividades": "II - Emprego de amálgama e derivados, galvanoplastia, estanhagem e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.9",
+          "aplicacao": "Outros Tóxicos Inorgânicos Operações com outros tóxicos inorgânicos capazes de fazer mal à saúde.",
+          "atividades": "Trabalhos permanentes expostos às poeiras, gases, vapores, neblinas e fumos de outros metais, metalóides halogenos e seus eletrólitos tóxicos - ácidos, base e sais - Relação das substâncias nocivas publicadas no Regulamento Tipo de Segurança da O.I.T.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.2.10",
+          "aplicacao": "Poeiras Minerais Nocivas Operações industriais com despreendimento de poeiras capazes de fazer mal à saúde - Silica, carvão, cimento, asbesto e talco.",
+          "atividades": "I - Trabalhos permenentes no subsolo em operações de corte, furação, desmonte e carregamento nas frentes de trabalho.",
+          "classificacao": "Insalubre Perigoso Penoso",
+          "tempo_minimo": "15 anos",
+          "observacoes": "Jornada normal especial fixada em Lei. Art. 187 e 293 da Port. Ministerial 262, de 05.01.1960; 49, e 31 de 25.03.1960; e 06.08.1962"
+        },
+        {
+          "codigo": "1.2.10",
+          "aplicacao": "Poeiras Minerais Nocivas Operações industriais com despreendimento de poeiras capazes de fazer mal à saúde - Silica, carvão, cimento, asbesto e talco.",
+          "atividades": "II - Trabalhos Permanentes em locais de subsolo afastados das frentes de trabalho, galerias, rampas, poços, depósitos, etc.",
+          "classificacao": "Insalubre Penoso",
+          "tempo_minimo": "20 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.10",
+          "aplicacao": "Poeiras Minerais Nocivas Operações industriais com despreendimento de poeiras capazes de fazer mal à saúde - Silica, carvão, cimento, asbesto e talco.",
+          "atividades": "III - Trabalhos permanentes a céu aberto - Corte, furação, desmonte, carregamento, britagem, classificação, carga e descarga de silos, transportadores de correias e teleférreos, moagem, calcinação, ensacamento e outras.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": ""
+        },
+        {
+          "codigo": "1.2.11",
+          "aplicacao": "Tóxicos Orgânicos. Operações executadas com derivados tóxicos do carbono - Nomenclatura Internacional I - Hidrocarbonetos (ano, eno, ino) II - Ácidos carboxílicos (oico) III - Alcoois (ol) IV - Aldehydos (al) V - Cetona (ona) VI - Esteres (com sais em ato - ila) VII - Éteres (óxidos - oxi) VIII - Amidas - amidos IX - Aminas - aminas X - Nitrilas e isonitrilas (nitrilas e carbilaminas) XI - Compostos organo-metálicos, halogenados, metalóidicos e nitrados",
+          "atividades": "Trabalhos permanentes expostos às poeiras; gases, vapores, neblinas e fumos de derivados do carbono constantes da Relação Internacional das Substâncias Nocivas publicada no Regulamento Tipo de Segurança O.I.T. - Tais como: cloreto de metila, tetracloreto de carbono, tricoloroetileno, clorofórmio, bromureto de metila, nitro benzeno, gasolina, alcoois, acetona, acetatos, pentano, metano, hexano, sulfureto de carbono, etc.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 CLT. Port. Ministerial 262, de 6.8.1962."
+        }
+      ]
+    },
+    {
+      "codigo": "1.3.0",
+      "titulo": "AGENTES BIOLÓGICOS",
+      "itens": [
+        {
+          "codigo": "1.3.1",
+          "aplicacao": "Carbúnculo, Brucela Mormo e Tétano Operações industriais com animais ou produtos oriundos de animais infectados.",
+          "atividades": "Trabalhos permanentes expostos ao contato direto com germes infecciosos - Assistência Veterinária, serviços em matadouros, cavalariças e outros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal. Art. 187 a CLT. Port. Ministerial 262, de 06.08.1962."
+        },
+        {
+          "codigo": "1.3.2",
+          "aplicacao": "Germes infecciosos ou parasitários humanos - Animais Serviços de Assistência Médica, Odontológica e Hospitalar em que haja contato obrigatório com organismos doentes ou com materiais infecto-contagiantes.",
+          "atividades": "Trabalhos permanantes expostos ao contato com doentes ou materiais infecto-contagiantes - assistência médica, odontológica, hospitalar e outras atividades afins.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Lei nº 3.999, de 15.12.1961. Art. 187 da CLT. Port. Ministerial 262, de 06.08.1962."
+        }
+      ]
+    }
+  ]
+}

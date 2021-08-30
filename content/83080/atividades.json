@@ -1,0 +1,252 @@
+{
+  "titulo": "Decreto nº 83.080, de 24 de janeiro de 1979",
+  "subtitulo": "Anexo II - Grupos Profissionais",
+  "publicacao": "1979-01-29",
+  "periodo": {
+    "inicial": "",
+    "final": "1997-03-05"
+  },
+  "rotulos": {
+    "codigo": "Código",
+    "atividades": "Atividade Profissional",
+    "tempo_minimo": "Tempo Mínimo de Trabalho"
+  },
+  "secoes": [
+    {
+      "codigo": "2.1.0",
+      "titulo": "PROFISSÕES LIBERAIS E TÉCNICAS",
+      "itens": [
+        {
+          "codigo": "2.1.1",
+          "atividades": [
+            "ENGENHARIA",
+            "Engenheiros-químicos.",
+            "Engenheiros-metalúrgicos.",
+            "Engenheiros de minas."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.1.2",
+          "atividades": [
+            "QUÍMICA-RADIOATIVIDADE",
+            "Químicos-industriais.",
+            "Químicos-toxicicologistas.",
+            "Técnicos em laboratórios de análises.",
+            "Técnicos em laboratórios químicos.",
+            "Técnicos de radioatividade"
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.1.3",
+          "atividades": [
+            "MEDICINA - ODONTOLOGIA - FARMÁCIA E BIOQUÍMICA -ENFERMAGEM -VETERINÁRIA",
+            "Médicos (expostos aos agentes nocivos - Código 1.3.0 do Anexo I).",
+            "Médicos-anatomopatologistas ou histopatologistas.",
+            "Médicos-toxicologistas.",
+            "Médicos-laboratoristas (patologistas).",
+            "Médicos-radiologistas ou radioterapeutas.",
+            "Técnicos de raios X.",
+            "Técnicos de laboratório de anatomopatologia ou histopatologia.",
+            "Farmacêuticos-toxicologistas e bioquímicos.",
+            "Técnicos de laboratório de gabinete de necropsia.",
+            "Técnicos de anatomia.",
+            "Dentistas (expostos aos agentes nocivos - código 1.3.0 do Anexo I).",
+            "Enfermeiros (expostos aos agentes nocivos - código 1.3.0 do Anexo I).",
+            "Médicos-veterinários (expostos aos agentes nocivos - código 1.3.0 do Anexo I)"
+          ],
+          "tempo_minimo": "25 anos"
+        }
+      ]
+    },
+    {
+      "codigo": "2.2.0",
+      "titulo": "PESCA",
+      "itens": [
+        {
+          "codigo": "2.2.1",
+          "atividades": ["PESCADORES"],
+          "tempo_minimo": "25 ANOS"
+        }
+      ]
+    },
+    {
+      "codigo": "2.3.0",
+      "titulo": "EXTRAÇÃO DE MINÉRIOS",
+      "itens": [
+        {
+          "codigo": "2.3.1",
+          "atividades": [
+            "MINEIROS DE SUBSOLO",
+            "(Operações de corte, furação e desmonte e atividades de manobras nos pontos de transferências de cargas e viradores e outras atividades exercidas na frente de trabalho)",
+            "Perfuradores de rochas, cortadores de rochas, carregadores, britadores, cavouqueiros e choqueiros."
+          ],
+          "tempo_minimo": "15 anos"
+        },
+        {
+          "codigo": "2.3.2",
+          "atividades": [
+            "TRABALHADORES PERMANENTES EM LOCAIS DE SUBSOLO, AFASTADOS DAS FRENTES DE TRABALHO (GALERIAS, RAMPAS, POÇOS, DEPÓSITOS)",
+            "Motoristas, carregadores, condutores de vagonetas, carregadores de explosivos, encarregados do fogo (blasters), eletricistas, engatadores, bombeiros, madeireiros e outros profissionais com atribuições permanentes em minas de subsolo."
+          ],
+          "tempo_minimo": "20 anos"
+        },
+        {
+          "codigo": "2.3.3",
+          "atividades": [
+            "MINEIROS DE SUPERFÍCIE",
+            "Trabalhadores no exercício de atividades de extração em minas ou depósitos minerais na superfície.",
+            "Perfuradores de rochas, cortadores de rochas, carregadores, operadores de escavadeiras, motoreiros, consutores de vagonetas, britadores, carregadores de explosivos, encarregados do fogo (blasters) e outros profissionais com atribuições permanentes de extração em minas ou depósitos minerais na superfície."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.3.4",
+          "atividades": [
+            "TRABALHADORES EM PEDREIRAS, TÚNEIS, GALERIAS",
+            "Perfuradores, cavouqueiros, canteiros, encarregados do fogo (blasters) e operadores de pás mecânicas."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.3.5",
+          "atividades": [
+            "TRABALHADORES EM EXTRAÇÃO DE PETRÓLEO",
+            "Trabalhadores ocupados em caráter permanente na perfuração de poços petrolíferos e na extração de petróleo."
+          ],
+          "tempo_minimo": "25 anos"
+        }
+      ]
+    },
+    {
+      "codigo": "2.4.0",
+      "titulo": "TRANSPORTES",
+      "itens": [
+        {
+          "codigo": "2.4.1",
+          "atividades": [
+            "TRANSPORTE FERROVIÁRIO",
+            "Maquinista de máquinas acionadas a lenha ou a carvão.",
+            "Foguista."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.4.2",
+          "atividades": [
+            "TRANSPORTE URBANO E RODOVIÁRIO",
+            "Motorista de ônibus e de caminhões de cargas (ocupados em caráter permanente)."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.4.3",
+          "atividades": ["TRANSPORTES AÉREO", "Aeronautas"],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.4.4",
+          "atividades": [
+            "TRANSPORTE MARÍTIMO",
+            "Foguistas.",
+            "Trabalhadores em casa de máquinas."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.4.5",
+          "atividades": [
+            "TRANSPORTE MANUAL DE CARGA NA ÁREA PORTUÁRIA",
+            "Estivadores (trabalhadores ocupados em caráter permanente, em embarcações, no carregamento e descarregamento de cargas).",
+            "Arrumadores e ensacadores.",
+            "Operadores de carga e descarga nos portos."
+          ],
+          "tempo_minimo": "25 anos"
+        }
+      ]
+    },
+    {
+      "codigo": "2.5.0",
+      "titulo": "ARTÍFICES, TRABALHADORES OCUPADOS EM DIVERSOS PROCESSOS DE PRODUÇÃO E OUTROS",
+      "itens": [
+        {
+          "codigo": "2.5.1",
+          "atividades": [
+            "INDÚSTRIAS METALÚRGICAS E MECÂNICAS",
+            "(Aciarias, fundições de ferro e metais não ferrosos, laminações), forneiros, mãos de forno, reservas de forno, fundidores, soldadores, lingoteiros, tenazeiros, caçambeiros, amarradores, dobradores e desbastadores.",
+            "Rebarbadores, esmerilhadores, marteleiros de rebarbação.",
+            "Operadores de tambores rotativos e outras máquinas de rebarbação.",
+            "Operadores de máquinas para fabricação de tubos por centrifugação.",
+            "Operadores de pontes rolantes ou de equipamentos para transporte de peças e caçambas com metal liqüefeito, nos recintos de aciarias, fundições e laminações.",
+            "Operadores nos fornos de recozimento ou de têmpera-recozedores, temperadores."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.5.2",
+          "atividades": [
+            "FERRARIAS, ESTAMPARIAS DE METAL A QUENTE E CALDEIRARIA",
+            "Ferreiros, marteleteiros, forjadores, estampadores, caldeireiros e prensadores.",
+            "Operadores de forno de recozimento, de têmpera, de cementação, forneiros, recozedores, temperadores, cementadores.",
+            "Operadores de pontes rolantes ou talha elétrica."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.5.3",
+          "atividades": [
+            "OPERAÇÕES DIVERSAS",
+            "Operadores de máquinas pneumáticas.",
+            "Rebitadores com marteletes pneumáticos.",
+            "Cortadores de chapa a oxiacetileno.",
+            "Esmerilhadores.",
+            "Soldadores (solda elétrica e a oxiacetileno).",
+            "Operadores de jatos de areia com exposição direta à poeira.",
+            "Pintores a pistola (com solventes hidrocarbonados e tintas tóxicas).",
+            "Foguistas."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.5.4",
+          "atividades": [
+            "APLICAÇÃO DE REVESTIMENTOS METÁLICOS E ELETROPLASTIA",
+            "Galvanizadores, niqueladores, cromadores, cobreadores, estanhadores, douradores e profissionais em trabalhos de exposição permanente nos locais."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.5.5",
+          "atividades": [
+            "FABRICAÇÃO DE VIDROS E CRISTAIS",
+            "Vidreiros, operadores de forno, forneiros, sopradores de vidros e cristais.",
+            "Operadores de máquinas de fabricação de vidro plano, sacadores de vidros e cristais, operadores de máquinas de soprar vidros e outros profissionais em trabalhos permanentes nos recintos de fabricação de vidros e cristais."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.5.6",
+          "atividades": "FABRICAÇÃO DE TINTAS, ESMALTES E VERNIZES Trituradores, moedores, operadores de máquinas moedoras, misturadores, preparadores, envasilhadores e outros profissionais em trabalhos de exposição permanente nos recintos de fabricação.",
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.5.7",
+          "atividades": [
+            "PREPARAÇÃO DE COUROS",
+            "Caleadores de couros. Curtidores de couros. Trabalhadores em tanagem de couros."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "2.5.8",
+          "atividades": [
+            "INDÚSTRIA GRÁFICA E EDITORIAL",
+            "Monotipistas, linotipistas, fundidores de monotipo, fundidores de linotipo, fundidores de estereotipia, eletrotipistas, estereotipistas, galvanotipistas, titulistas, compositores, biqueiros, chapistas, tipógrafos, caixistas, distribuidores, paginadores, emendadores, impressores, minervistas, prelistas, ludistas, litógrafos e fotogravadores."
+          ],
+          "tempo_minimo": "25 anos"
+        }
+      ]
+    }
+  ]
+}

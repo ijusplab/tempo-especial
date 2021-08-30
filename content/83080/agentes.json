@@ -1,0 +1,288 @@
+{
+  "titulo": "Decreto nº 83.080, de 24 de janeiro de 1979",
+  "subtitulo": "Anexo I - Agentes Nocivos",
+  "publicacao": "1979-01-29",
+  "periodo": {
+    "inicial": "",
+    "final": "1997-03-05"
+  },
+  "rotulos": {
+    "codigo": "Código",
+    "aplicacao": "Campo de Aplicação",
+    "atividades": "Atividade Profissional (trabalhadores ocupados em caráter permanente)",
+    "tempo_minimo": "Tempo Mínimo de Trabalho"
+  },
+  "secoes": [
+    {
+      "codigo": "1.1.0",
+      "titulo": "AGENTES FÍSICOS",
+      "itens": [
+        {
+          "codigo": "1.1.1",
+          "aplicacao": "CALOR",
+          "atividades": [
+            "Indústria metalúrgica e mecânica (atividades discriminadas nos códigos 2.5.1 e 2.5.2 do Anexo II).",
+            "Fabricação de vidros e cristais (atividades discriminadas no código 2.5.5 do Anexo II). Alimentação de caldeiras a vapor a carvão ou a lenha."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.1.2",
+          "aplicacao": "FRIO",
+          "atividades": ["Câmaras frigoríficas e fabricação de gelo."],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.1.3",
+          "aplicacao": "RADIAÇÕES IONIZANTES",
+          "atividades": [
+            "Extração de minerais radioativos (tratamento, purificação, isolamento, e preparo pata distribuição).",
+            "Operações com reatores nucleares com fontes de nêutrons ou de outras radiações corpusculares.",
+            "Trabalhos executados com exposições aos raios X, rádio e substâncias radioativas para fins industriais, terapêuticos e diagnósticos.",
+            "Fabricação de ampolas de raios X e radioterapia (inspeção de qualidade).",
+            "Fabricação e manipulação de produtos químicos e farmacêuticos radioativos (urânio, rádon, mesotório, tório X, césio 137 e outros).",
+            "Fabricação e aplicação de produtos luminescentes radíferos.",
+            "Pesquisas e estudos dos raios X e substâncias radioativas em laboratórios."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.1.4",
+          "aplicacao": "TREPIDAÇÃO",
+          "atividades": [
+            "Trabalhos com perfuratrizes e marteletes pneumáticos."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.1.5",
+          "aplicacao": "RUÍDO",
+          "atividades": [
+            "Calderaria (atividades discriminadas no código 2.5.2 do Anexo II).",
+            "Trabalhos em usinas geradoras de eletricidade (sala de turbinas e geradores).",
+            "Trabalhos com exposição permanente a ruído acima de 90 db. Operação com máquinas pneumáticas (atividades discriminadas entre as do código 2.5.3 do Anexo II).",
+            "Trabalhos em cabinas de prova de motores de avião."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.1.6",
+          "aplicacao": "PRESSÃO ATMOSFÉRICA",
+          "atividades": [
+            "Trabalhos em caixões ou câmaras pneumáticas subaquáticas e em tubulões pneumáticos.",
+            "Operação com uso de escafandro.",
+            "Operação de mergulho.",
+            "Trabalho sob ar comprimido em túneis pressurizados"
+          ],
+          "tempo_minimo": "20 anos"
+        }
+      ]
+    },
+    {
+      "codigo": "1.2.0",
+      "titulo": "AGENTES QUÍMICOS",
+      "itens": [
+        {
+          "codigo": "1.2.1",
+          "aplicacao": "ARSÊNICO",
+          "atividades": [
+            "Metalurgia de minérios arsenicais.",
+            "Extração de arsênico.",
+            "Fabricação de compostos de arsênico.",
+            "Fabricação de tintas à base de compostos de arsênico (atividades discriminadas no Código 2.5.6 do Anexo II).",
+            "Fabricação e aplicação de produtos inseticidas, parasiticidas e raticidas à base de compostos de arsênico."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.2",
+          "aplicacao": "BERÍLIO OU GLICÍNIO",
+          "atividades": [
+            "Extração, trituração e tratamento de berílio:",
+            "Fabricação de ligas de berílio e seus compostos.",
+            "Fundição de ligas metálicas.",
+            "Utilização do berílio ou seus compostos na fabricação de tubos fluorescentes, de ampolas de raios X e de vidros especiais."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.3",
+          "aplicacao": "CÁDMIO",
+          "atividades": [
+            "Extração, tratamento e preparação de ligas de cádmio.",
+            "Fundição de ligas metálicas.",
+            "Fabricação de compostos de cádmio.",
+            "Solda com cádmio.",
+            "Utilização de cádmio em revestimentos metálicos."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.4",
+          "aplicacao": "CHUMBO",
+          "atividades": [
+            "Extração de chumbo.",
+            "Fabricação e emprego de chumbo tetraetila ou tetrametila.",
+            "Fabricação de objetos e artefatos de chumbo.",
+            "Fabricação de acumuladores, pilhas e baterias elétricas contendo chumbo ou compostos de chumbo.",
+            "Fabricação de tintas, esmaltes e vernizes à base de compostos de chumbo (atividades discriminadas no código 2.5.6 do Anexo II).",
+            "Fundição e laminação de chumbo, zinco velho, cobre e latão.",
+            "Limpeza, raspagem e reparação de tanques de mistura e armazenamento de gasolina contendo chumbo tetraetila.",
+            "Metalúrgia e refinação de chumbo.",
+            "Vulcanização de borracha pelo litargírio ou outros compostos de chumbo."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.5",
+          "aplicacao": "CROMO",
+          "atividades": [
+            "Fabricação de ácimo crômico, de cromatos e bicromatos."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.6",
+          "aplicacao": "FÓSFORO",
+          "atividades": [
+            "Extração e preparação de fósforo branco e seus compostos.",
+            "Fabricação e aplicação de produtos fosforados e organofosforados, inseticidas, parasiticidas e raticidas.",
+            "Fabricação de projéteis incendiários, explosivos e gases asfixiantes à base de fósforo branco."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.7",
+          "aplicacao": "MANGANÊS",
+          "atividades": [
+            "Extração, tratamento e trituração do minério por processos manuais ou semi-automáticos.",
+            "Fabricação de compostos de manganês.",
+            "Fabricação de pilhas secas contendo compostos de manganês.",
+            "Fabricação de vidros especiais, indústrias de cerâmica e outras operações com exposição permanente a poeiras de pirolusita ou de outros compostos de manganês."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.8",
+          "aplicacao": "MERCÚRIO",
+          "atividades": [
+            "Extração e fabricação de compostos de mercúrio.",
+            "Fabricação de espoletas com fulminato de mercúrio.",
+            "Fabricação de tintas à base de composto de mercúrio.",
+            "Fabricação de solda à base de mercúrio.",
+            "Fabricação de aparelhos de mercúrio: barômetro, manômetro, termômetro, interruptor, lâmpadas, válvulas eletrônicas, ampolas de raios X e outros.",
+            "Amalgamação de zinco para fabricação de eletródios, pilhas e acumuladores.",
+            "Douração e estanhagem de espelhos à base de mercúrio.",
+            "Empalhamento de animais com sais de mercúrio.",
+            "Recuperação de mercúrio por destilação de resíduos industriais.",
+            "Tratamento a quente das amálgamas de ouro e prata para recuperação desses metais preciosos.",
+            "Secretagem de pelos, crinas e plumas, feltragem à base de compostos de mercúrio."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.9",
+          "aplicacao": "OURO",
+          "atividades": ["Redução, separação e fundição do ouro"],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.10",
+          "aplicacao": "HIDROCARBONETOS E OUTROS COMPOSTOS DE CARBONO",
+          "atividades": [
+            "Fabricação de benzol, toluol, xílol (benzeno, tolueno e xileno).",
+            "Fabricação e aplicação de inseticidas clorados derivados de hidrocarbonetos.",
+            "Fabricação e aplicação de inseticidas e fungicidas derivados do ácido carbônlco.",
+            "Fabricação de derivados halogenados de hidrocarbonetos alifáticos: cloreto de metila, brometo de metila, clorofórmio, tetracloreto de carbono, dicloretano, tetracloretano, tricloretileno e bromofórmio.",
+            "Fabricação e aplicação de inseticida à base de sulfeto-de carbono.",
+            "Fabricação de seda artificial (viscose).",
+            "Fabricação de sulfeto de carbono.",
+            "Fabricação de carbonilida.",
+            "Fabricação de gás de iluminação.",
+            "Fabricação de solventes para tintas, lacas e vernizes, contendo benzol, toluol e xilol."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.11",
+          "aplicacao": "OUTROS TÓXICOS; ASSOCIAÇÃO DE AGENTES",
+          "atividades": [
+            "Fabricação de flúor e ácido fluorídrico, cloro e ácido clorídrico e bromo e ácido bromídrico.",
+            "Aplicação de revestimentos metálicos, eletroplastia, compreendendo: niquelagem, cromagem, douração, anodização de alumínio e outras operações assemelhadas (atividades discrimadas no Código 2.5.4 do Anexo II).",
+            "Pintura a pistola - associação de solventes e hidrocarbonados e partículas suspensas (atividades discriminadas entre as do código 2.5.3 do Anexo II).",
+            "Trabalhos em galerias e tanques de esgoto (monóxido de carbono, gás metano, gás sulfídrico e outros).",
+            "Solda elétrica e a oxiacetileno (fumos metálicos).",
+            "Indústrias téxteis: alvejadores, tintureiros, lavadores e estampadores a mão."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.2.12",
+          "aplicacao": "SÍLICA, SILICATOS, CARVÃO, CIMENTO E AMIANTO",
+          "atividades": [
+            "Extração de minérios (atividades discriminadas nos códigos 2.3.1 a 2.3.5 do Anexo II).",
+            "Extração de rochas amiantíferas (furação, corte, desmonte, trituração, peneiramento e manipulação).",
+            "Extração, trituração e moagem de talco.",
+            "Decapagem, limpeza de metais, foscamento de vidros com jatos de areia (atividades discriminadas entre as do código 2.5.3 do Anexo II).",
+            "Fabricação de cimento.",
+            "Fabricação de guarnições para freios, materiais isolantes e produtos de fibrocimento.",
+            "Fabricação de material refratário para fornos, chaminés e cadinhos, recuperação de resíduos.",
+            "Fabricação de mós, rebolos, saponáceos, pós e pastas para polimento de metais.",
+            "Moagem e manipulação de sílica na indústria de vidros, porcelanas e outros produtos cerâmicos.",
+            "Mistura, cardagem, fiação e tecelagem de aminato.",
+            "Trabalho em pedreiras (atividades discriminadas no código 2.3.4 do Anexo II).",
+            "Trabalho em construção de túneis (atividades discriminadas nos códigos 2.3.3 e 2.3.4 do Anexo II)."
+          ],
+          "tempo_minimo": "15, 20 ou 25 anos"
+        }
+      ]
+    },
+    {
+      "codigo": "1.3.0",
+      "titulo": "AGENTES BIOLÓGICOS",
+      "itens": [
+        {
+          "codigo": "1.3.1",
+          "aplicacao": "CARBÚNCULO BRUCELA, MORMO, TUBERCULOSE E TÉTANO",
+          "atividades": [
+            "Trabalhos permenentes em que haja contato com produtos de animais infectados.",
+            "Trabalhos permenentes em que haja contato com carnes, vísceras, glândulas, sangue, ossos, pêlos, dejeções de animais infectados (atividade discriminadas entre as do código 2.1.3 do Anexo II: médicos, veterinários, enfermeiros e técnicos de laboratório)."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.3.2",
+          "aplicacao": "ANIMAIS DOENTES E MATERIAIS INFECTO-CONTAGIANTES",
+          "atividades": [
+            "Trabalhos permanentes expostos ao contato com animais doentes ou materiais infecto-contagiantes (atividades discriminadas entre as do código 2.1.3 do Anexo II: médicos, veterinários, enfermeiros e técnicos de laboratório)."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.3.3",
+          "aplicacao": "PREPARAÇÃO DE SOROS, VACINAS E OUTROS PRODUTOS",
+          "atividades": [
+            "Trabalhos permanentes em laboratórios com animais destinados ao preparo de soro, vacinas e outros produtos (atividades discriminadas entre as do código 2.1.3 do Anexo II: médicos-laboratoristas, técnicos de laboratórios, biologistas)."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.3.4",
+          "aplicacao": "DOENTES OU MATERIAIS INFECTO-CONTAGIANTES",
+          "atividades": [
+            "Trabalhos em que haja contato permanente com doentes ou materiais infecto-contagiantes (atividades discriminadas entre as do código 2.1.3 do Anexo II: médicos, médicos-laboratoristas (patologistas), técnicos de laboratório, dentistas, enfermeiros)."
+          ],
+          "tempo_minimo": "25 anos"
+        },
+        {
+          "codigo": "1.3.5",
+          "aplicacao": "GERMES",
+          "atividades": [
+            "Trabalhos nos gabinetes de autópsia, de anatomia e anátomo-histopatologia (atividades discriminadas entre as do código 2.1.3 do Anexo II: médicos-toxicologistas, técnicos de laboratório de anatomopatologia ou histopatologia, técnico de laboratório de gabinetes de necropsia, técnicos de anatomia)."
+          ],
+          "tempo_minimo": "25 anos"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "titulo": "Decreto nº 2.172, de 5 de março de 1997",
+  "subtitulo": "Anexo IV - Classificação dos Agentes Nocivos",
+  "publicacao": "1997-03-06",
+  "periodo": {
+    "inicial": "1997-03-06",
+    "final": "1999-05-06"
+  },
+  "rotulos": {
+    "codigo": "Código",
+    "agente_nocivo": "Agente Nocivo",
+    "tempo_exposicao": "Tempo de Exposição"
+  },
+  "secoes": [
+    {
+      "codigo": "1.0.0",
+      "titulo": "AGENTES QUÍMICOS",
+      "explicacao": [
+        "O que determina o benefício é a presença do agente no processo produtivo e no meio ambiente de trabalho.",
+        "As atividades listadas são exemplificavas nas quais pode haver a exposição."
+      ],
+      "itens": [
+        {
+          "codigo": "1.0.1",
+          "agente_nocivo": "ARSÊNIO E SEUS COMPOSTOS",
+          "descricao": [
+            "a) extração de arsênio e seus compostos tóxicos;",
+            "b) metalurgia de minérios arsenicais;",
+            "c) utilização de hidrogênio arseniado (arsina) em sínteses orgânicas e no processamento de componentes eletrônicos;",
+            "d) fabricação e preparação de tintas e lacas;",
+            "e) fabricação, preparação e aplicação de inseticidas, herbicidas, parasiticidas e raticidas com a utilização de compostos de arsênio;",
+            "f) produção de vidros, liga de chumbo e medicamentos com a utilização de compostos de arsênio;",
+            "g) conservação e curtume de peles, tratamento e preservação da madeira com a utilização de compostos de arsênio."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.2",
+          "agente_nocivo": "ASBESTOS",
+          "descricao": [
+            "a) extração, processamento e manipulação de rochas amiantíferas;",
+            "b) fabricação de guarnições para freios, embreagens e materiais isolantes contendo asbestos;",
+            "c) fabricação de produtos de fibrocimento;",
+            "d) mistura, cardagem, fiação e tecelagem de fibras de asbestos."
+          ],
+          "tempo_exposicao": "20 ANOS"
+        },
+        {
+          "codigo": "1.0.3",
+          "agente_nocivo": "BENZENO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) produção e processamento de benzeno;",
+            "b) utilização de benzeno como matéria-prima em sínteses orgânicas e na produção de derivados;",
+            "c) utilização de benzeno como insumo na extração de óleos vegetais e álcoois;",
+            "d) utilização de produtos que contenham benzeno, como colas, tintas, vernizes, produtos gráficos e solventes;",
+            "e) produção e utilização de clorobenzenos a derivados;",
+            "f) fabricação e vulcanização de artefatos de borracha;",
+            "g) fabricação e recauchutagem de pneumáticos."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.4",
+          "agente_nocivo": "BERÍLIO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) extração, trituração e tratamento de berílio;",
+            "b) fabricação de compostos e ligas de berílio;",
+            "c) fabricação de tubos fluorescentes e de ampolas de raio X;",
+            "d) fabricação de queimadores e moderadores de reatores nucleares;",
+            "e) fabricação de vidros e porcelanas para isolantes térmicos;",
+            "f) utilização do berílio na indústria aeroespacial."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.5",
+          "agente_nocivo": "BROMO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": ["a) fabricação e emprego do bromo e do ácido brómico."],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.6",
+          "agente_nocivo": "CÁDMIO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) extração, tratamento e preparação de ligas de cádmio;",
+            "b) fabricação de compostos de cádmio;",
+            "c) utilização de eletrodos de cádmio em soldas;",
+            "d) utilização de cádmio no revestimento eletrolítico de metais;",
+            "e) utilìzação de cádmio como pigmento e estabilizador na indústria do plástico;",
+            "f) fabricação de eletrodos de baterias alcalinas de níquel-cádmio."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.7",
+          "agente_nocivo": "CARVÃO MINERAL E SEUS DERIVADOS",
+          "descricao": [
+            "a) extração, fabricação, beneficiamento e utilização de carvão mineral, piche, alcatrão, betume e breu;",
+            "b) extração, produção e utilização de óleos minerais e parafinas;",
+            "c) extração e utilização de antraceno e negro de fumo;",
+            "d) produção de coque."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.8",
+          "agente_nocivo": "CHUMBO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) extração e processamento de minério de chumbo;",
+            "b) metalurgia e fabricação de ligas e compostos de chumbo;",
+            "c) fabricação e reformas de acumuladores elétricos;",
+            "d) fabricação e emprego de chumbo-tetrametila e chumbo-tetrametila;",
+            "e) fabricação de tintas, esmaltes e vernizes à base de compostos de chumbo;",
+            "f) pintura com pistola empregando tintas com pigmentos de chumbo;",
+            "g) fabricação de objetos e artefatos de chumbo e suas ligas;",
+            "h) vulcanização da borracha pelo litargírio ou outros compostos de chumbo;",
+            "i) utilização de chumbo em processos de soldagem;",
+            "j) fabricação de vidro, crístal e esmalte vitrificado;",
+            "l) fabricação de pérola artificiais;",
+            "m) fabricação e utilização de aditivos à base de chumbo para a indústria de plásticos."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.9",
+          "agente_nocivo": "CLORO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) fabricação e emprego de defensivos organoclorados;",
+            "b) fabricação e emprego de cloroetilaminas (mostardas nitrogenadas);",
+            "c) fabricação e manuseio de bifenis policlorados (PCB);",
+            "d) fabricação e emprego de cloreto de vinil como mônomero na fabricação de policloreto de vinil (PVC) e outras resinas e como intermediário em produções químicas ou como solvente orgânico;",
+            "e) fabricação de policloroprene;",
+            "f) fabricação e emprego de clorofórmio (triclorometano) e de tetracloreto de carbono."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.10",
+          "agente_nocivo": "CROMO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) fabricação, emprego industrial, manipulação de cromo, acido crômico, bromatos e bicromatos;",
+            "b) fabricação de liga de ferro-cromo;",
+            "c) revestimento eletrolítico de metais e polimento de superfícies cromadas;",
+            "d) pintura com pistola utilizando tinta com pigmentos de cromo;",
+            "e) soldagem de aço inoxidável."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.11",
+          "agente_nocivo": "DISSULFETO DE CARBONO",
+          "descricao": [
+            "a) fabricação e utilização de dissulfeto de carbono;",
+            "b) fabricação de viscose e seda artificial (raiom);",
+            "c) fabricação e emprego de solventes, inseticidas e herbicidas contendo dissulfeto de carbono;",
+            "d) fabricação de vernizes, resinas, sais de amoníaco, de tetracloreto de carbono, de vidros óticos e produtos téxteis com uso de dissulfeto de carbono."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.12",
+          "agente_nocivo": "FÓSFORO E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) extração e preparação de fósforo branco e seus compostos;",
+            "b) fabricação e aplicação de produtos fosforados e organofosforados (sínteses orgânicas, fertilizantes e praguicidas);",
+            "c) fabricação de munições e armamentos explosivos."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.13",
+          "agente_nocivo": "IODO",
+          "descricao": "a) fabricação e emprego industrial do iodo",
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.14",
+          "agente_nocivo": "MANGANÊS E SEUS COMPOSTOS",
+          "descricao": [
+            "a) extração e beneficiamento de minérios de maganês;",
+            "b) fabricação de liga e compostos de maganês;",
+            "c) fabricação de pilhas secas e acumuladores;",
+            "d) preparação de permanganato de potássio e de corantes;",
+            "e) fabricação de vidros especiais e cerâmicas;",
+            "f) utilização de eletrodos contendo maganês;",
+            "g) fabricação de tintas e fertilizantes."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.15",
+          "agente_nocivo": "MERCÚRIO E SEUS COMPOSTOS",
+          "descricao": [
+            "a) extração e utilização de mercúrio e fabricação de seus compostos;",
+            "b) fabricação de espoletas com fulminato de mercúrio;",
+            "c) fabricação de tintas com pigmento contendo mercúrio;",
+            "d) fabricação e manutenção de aparelhos de medição e de laboratório;",
+            "e) fabricação de lâmpadas, válvulas eletrônicas e ampolas de raio X;",
+            "f) fabricação de minuterias, acumuladores e retificadores de corrente;",
+            "g) utilização como agente catalítico e de eletrólise;",
+            "h) douração, prateamento, bronzeamento e estanhagem de espelhos e metais;",
+            "i) curtimento e feltragem do couro e conservação da madeira;",
+            "j) recuperação do mercúrio;",
+            "l) amalgamação do zinco;",
+            "m) tratamento a quente de amalgamas de metais;",
+            "n) fabricação e aplicação de fungicidas"
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.16",
+          "agente_nocivo": "NÍQUEL E SEUS COMPOSTOS TÓXICOS",
+          "descricao": [
+            "a) extração e beneficiamento do níquel;",
+            "b) niquelagem de metais;",
+            "c) fabricação de acumuladores de níquel-cádmio."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.17",
+          "agente_nocivo": "PETRÓLEO, XISTO BETUMINOSO, GÁS NATURAL E SEUS DERIVADOS",
+          "descricao": [
+            "a) extração, processamento, beneficiamento e atividades de manutenção realizadas em unidades de extração, plantas petrolíferas e petroquímicas;",
+            "b) beneficiamento e aplicação de misturas asfálticas contendo hidrocarbonetos policíclicos."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.18",
+          "agente_nocivo": "SÍLICA LIVRE",
+          "descricao": [
+            "a) extração de minérios a céu aberto;",
+            "b) beneficiamento e tratamento de produtos minerais geradores de poeiras contendo sílica livre cristalizada;",
+            "c) tratamento, decapagem e limpeza de metais e fosqueamento de vidros com jatos de areia;",
+            "d) fabricação, processamento, aplicação e recuperação de materiais refratários;",
+            "e) fabricação de mós, rebolos e de pós e pastas para polimento;",
+            "f) fabricação de vidros e cerâmicas;",
+            "g) construção de túneis;",
+            "h) desbaste e corte a seco de materiais contendo sílica."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "1.0.19",
+          "agente_nocivo": "OUTRAS SUBSTÂNCIAS QUÍMICAS",
+          "descricao": [
+            "GRUPO I - ESTIRENO; BUTADIENO-ESTIRENO; ACRILONITRILA; 1-3 BUTADIENO; CLOROPRENO; MERCAPTANOS, n-HEXANO, DIISOCIANATO DE TOLUENO (TDI); AMINAS AROMÁTICAS",
+            "a) fabricação e vulcanização de artefatos de borracha;",
+            "b) fabricação e recauchutagem de pneus.",
+            "GRUPO II - AMINAS AROMÁTICAS, AMINOBIFENILA, AURAMINA, AZATIOPRINA, BIS (CLORO METIL) ÉTER, 1-4 BUTANODIOL DIMETANOSULFONATO (MILERAN), CICLOFOSFAMIDA, CLOROAMBUCIL, DIETILESTILBESTROL, ACRONITRILA, NITRONAFTILAMINA 4- DIMETIL-AMINOAZOBENZENO, BENZOPIRENO, BETAPROPIOLACTONA, BISCLOETILETER, BISCLOROMETIL CLOROMETILETER, DIANIZIDINA, DICLOROBENZIDINA, DIETILSULFATO, DIMETILSULFATO, ETILENOAMINA, ETILENOTIUREIA, FENACETINA, IODETO DE METILA, ETILNITROSURÉIAS, METILENO-ORTOCLOROANILINA (MOCA), NITROSAMINA, ORTOTOLUIDINA, OXIMETALONA, PROCARBAZINA, PROPANOSULTONA, 1-3 BUTADIENO, ÓXIDO DE ETILENO, ESTILBENZENO, DIISOCIANATO DE TOLUENO (TDI), CREOSOTO, 4- AMINODIFENIL, BENZIDINA, BETANAFTILAMINA, ESTIRENO, 1-CLORO 2,4- NITRODIFENIL, 3- POXIPROPANO",
+            "a) manufatura de magenta (anilina e orto-toluidina);",
+            "b) fabricação de fibras sintéticas;",
+            "c) sínteses químicas;",
+            "d) fabricação da borracha e espumas;",
+            "e) fabricação de plásticos;",
+            "f) produção de medicamentos;",
+            "g) operações de preservação da madeira com creosoto;",
+            "h) esterilização de materiais cirúrgicos."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        }
+      ]
+    },
+    {
+      "codigo": "2.0.0",
+      "titulo": "AGENTES FÍSICOS",
+      "explicacao": [
+        "Exposição acima dos limites de tolerância especificados ou às atividades descritas."
+      ],
+      "itens": [
+        {
+          "codigo": "2.0.1",
+          "agente_nocivo": "RUÍDO",
+          "descricao": [
+            "a) exposição permanente a níveis de ruído acima de 90 decibéis."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "2.0.2",
+          "agente_nocivo": "VIBRAÇÕES",
+          "descricao": [
+            "a) trabalhos com perfuratrizes e marteletes pneumáticos."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "2.0.3",
+          "agente_nocivo": "RADIAÇÕES IONIZANTES",
+          "descricao": [
+            "a) extração e beneficiamento de minerais radioativos;",
+            "b) atividades em minerações com exposição ao radônio;",
+            "c) realização de manutenção e supervisão em unidades de extração, tratamento e beneficiamento de minerais radioativos com exposição às radiações ionizantes;",
+            "d) operações com reatores nucleares ou com fontes radioativas;",
+            "e) trabalhos realizados com exposição aos raios Alfa, Beta, Gama e X, aos nêutrons e às substâncias radioativas para fins industriais, terapêuticos e diagnósticos;",
+            "f) fabricação e manipulação de produtos radioativos;",
+            "g) pesquisas e estudos com radiações ionizantes em laboratórios."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "2.0.4",
+          "agente_nocivo": "TEMPERATURAS ANORMAIS",
+          "descricao": [
+            "a) trabalhos com exposição ao calor acima dos limites de tolerância estabelecidos na NR-15, da Portaria n° 3.214/78."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        },
+        {
+          "codigo": "2.0.5",
+          "agente_nocivo": "PRESSÃO ATMOSFÉRICA ANORMAL",
+          "descricao": [
+            "a) trabalhos em caixões ou câmaras hiperbáricas;",
+            "b) trabalhos em tubulões ou túneis sob ar comprimido;",
+            "c) operações de mergulho com o uso de escafandros ou outros equipamentos."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        }
+      ]
+    },
+    {
+      "codigo": "3.0.0",
+      "titulo": "AGENTES BIOLÓGICOS",
+      "explicacao": [
+        "Exposição aos agentes citados unicamente nas atividades relacionadas."
+      ],
+      "itens": [
+        {
+          "codigo": "3.0.1",
+          "agente_nocivo": "MICROORGANISMOS E PARASITAS INFECCIOSOS VIVOS E SUAS TOXINAS",
+          "descricao": [
+            "a) trabalhos em estabelecimentos de saúde em contato com pacientes portadores de doenças infecto-contagiosas ou com manuseio de materiais ontaminados;",
+            "b) trabalhos com animais infectados para tratamento ou para o preparo de soro, vacinas e outros produtos;",
+            "c) trabalhos em laboratórios de autópsia, de anatomia e anatomo-histologia;",
+            "d) trabalho de exumação de corpos e manipulação de resíduos de animais deteriorados;",
+            "e) trabalhos em galerias, fossas e tanques de esgoto;",
+            "f) esvaziamento de biodigestores;",
+            "g) coleta e industrialização do lixo."
+          ],
+          "tempo_exposicao": "25 ANOS"
+        }
+      ]
+    },
+    {
+      "codigo": "4.0.0",
+      "titulo": "ASSOCIAÇÃO DE AGENTES",
+      "explicacao": [
+        "Exposição aos agentes combinados exclusivamente nas atividades especificadas."
+      ],
+      "itens": [
+        {
+          "codigo": "4.0.1",
+          "agente_nocivo": "FÍSICOS, QUÍMICOS E BIOLÓGICOS",
+          "descricao": [
+            "a) mineração subterrânea cujas atividades sejam exercidas afastadas das frentes de produção."
+          ],
+          "tempo_exposicao": "20 ANOS"
+        },
+        {
+          "codigo": "4.0.2",
+          "agente_nocivo": "FÍSICOS, QUÍMICOS E BIOLÓGICOS",
+          "descricao": [
+            "a) trabalhos em atividades permanentes no subsolo de minerações subterrâneas em frente de produção."
+          ],
+          "tempo_exposicao": "15 ANOS"
+        }
+      ]
+    }
+  ]
+}

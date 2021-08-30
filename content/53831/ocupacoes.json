@@ -1,0 +1,227 @@
+{
+  "titulo": "Decreto nº 53.831, de 25 de março de 1964",
+  "subtitulo": "Quadro Anexo (art. 2º) - OCUPAÇÕES",
+  "publicacao": "1964-03-30",
+  "periodo": {
+    "inicial": "",
+    "final": "1997-03-05"
+  },
+  "rotulos": {
+    "codigo": "Código",
+    "aplicacao": "Campo de Aplicação",
+    "atividades": "Serviços e Atividades Profissionais",
+    "classificacao": "Classificação",
+    "tempo_minimo": "Tempo e Trabalho Mínimo",
+    "observacoes": "Observações"
+  },
+  "secoes": [
+    {
+      "codigo": "2.1.0",
+      "titulo": "LIBERAIS, TÉCNICAS, ASSEMELHADOS",
+      "itens": [
+        {
+          "codigo": "2.1.1",
+          "aplicacao": "Engenharia",
+          "atividades": "Engenheiros de Construção Civil, de minas, de metalurgia, eletricistas",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Decreto nº 46.131, de 03.06.1959."
+        },
+        {
+          "codigo": "2.1.2",
+          "aplicacao": "Química",
+          "atividades": "Químicos, Toxicologistas, podologistas.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Decreto nº 48.285, de 10-06-60."
+        },
+        {
+          "codigo": "2.1.3",
+          "aplicacao": "Medicina, Odontologia, Enfermagem",
+          "atividades": "Médicos, dentistas, enfermeiros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Decreto nº 43.155, de 06.02.1958."
+        },
+        {
+          "codigo": "2.1.4",
+          "aplicacao": "Magistério",
+          "atividades": "Professores",
+          "classificacao": "Penoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei Estadual vírgulaGB. 286; Estado RJ. 1.870 de 25.4.53. - Art. 318 da CLT"
+        }
+      ]
+    },
+    {
+      "codigo": "2.2.0",
+      "titulo": "AGRÍCOLAS, FLORESTAIS, AQUÁTICOS",
+      "itens": [
+        {
+          "codigo": "2.2.1",
+          "aplicacao": "Agricultura",
+          "atividades": "Trabalhadores na agropecuária.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+        {
+          "codigo": "2.2.2",
+          "aplicacao": "Caça",
+          "atividades": "Trabalhadores florestais. Caçadores",
+          "classificacao": "Perigoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+        {
+          "codigo": "2.2.3",
+          "aplicacao": "Pesca",
+          "atividades": "Pescadores.",
+          "classificacao": "Perigoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal"
+        }
+      ]
+    },
+    {
+      "codigo": "2.3.0",
+      "titulo": "PERFURAÇÃO, CONSTRUÇÃO CIVIL, ASSEMELHADOS",
+      "itens": [
+        {
+          "codigo": "2.3.1",
+          "aplicacao": "Escavações de Sub-solo - Túneis",
+          "atividades": "Trabalhadores em túneis e galerias.",
+          "classificacao": "Insalubre Perigoso",
+          "tempo_minimo": "20 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Artigo 295, CLT."
+        },
+        {
+          "codigo": "2.3.2",
+          "aplicacao": "Escavações de Superfície - Poços",
+          "atividades": "Trabalhadores em escavações à céu aberto.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+        {
+          "codigo": "2.3.3",
+          "aplicacao": "Edifícios, Barragens, Postes",
+          "atividades": "Trabalhadores em edifícios, barragens, pontes, torres.",
+          "classificacao": "Perigoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        }
+      ]
+    },
+    {
+      "codigo": "2.4.0",
+      "titulo": "TRANSPORTES E COMUNICAÇÕES",
+      "itens": [
+        {
+          "codigo": "2.4.1",
+          "aplicacao": "Transporte Aéreo",
+          "atividades": "Aeronautas, Aeroviária de serviços de pista e de oficinas, de manutenção, de conservação, de carga e descarga, de recepção e de despacho de aeronaves.",
+          "classificacao": "Perigoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Lei nº 3.501, de 21.12.1958 ; Lei nº 2.573, de 15.08.1955. Decretos ns. 50.660, de 26.06.1961 e 1.232, de 22.06.1962."
+        },
+        {
+          "codigo": "2.4.2",
+          "aplicacao": "Transporte Marítimo, Fluvial e Lacustre",
+          "atividades": "Marítimos de convés de máquinas, de câmara e de saúde - Operários de construção e reparos navais.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Artigo 243 CLT. Decretos ns. 52.475, de 13.09.1963; 5.270, de 18.10.1963 e 53.514, de 30.01.1964."
+        },
+        {
+          "codigo": "2.4.3",
+          "aplicacao": "Transporte Ferroviário",
+          "atividades": "Maquinistas, Guarda-freios, trabalhadores da via permanente.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Artigo 238, CLT."
+        },
+        {
+          "codigo": "2.4.4",
+          "aplicacao": "Transporte Rodoviário",
+          "atividades": "Motorneiros e condutores de bondes Motoristas e cobradores de ônibus Motoristas e ajudantes de caminhão",
+          "classificacao": "Penoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+
+        {
+          "codigo": "2.4.5",
+          "aplicacao": "Telegrafia, Telefonia, Rádio Comunicação",
+          "atividades": "Telegrafistas, telefonistas, rádio operadores de telecomunicações",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Artigo 227 da CLT. Port. Ministerial 20, de 06.08.1962."
+        }
+      ]
+    },
+    {
+      "codigo": "2.5.0",
+      "titulo": "ARTESANATO E OUTRAS OCUPAÇÕES QUALIFICADAS",
+      "itens": [
+        {
+          "codigo": "2.5.1",
+          "aplicacao": "Lavanderia e Tinturaria",
+          "atividades": "Lavadores, passadores, calandristas, tintureiros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+        {
+          "codigo": "2.5.2",
+          "aplicacao": "Fundição, Cozimento, Laminação, Trefilação, Moldagem",
+          "atividades": "Trabalhadores nas indústrias metalúrgicas de vidro, de cerâmica e de plásticos-fundidores, laminadores, moldadores, trefiladores, forjadores",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+        {
+          "codigo": "2.5.3",
+          "aplicacao": "Soldagem, Galvanização, Calderaria",
+          "atividades": "Trabalhadores nas indústrias metalúrgicas, de vidro de cerâmica e de plásticos - soldadores, galvanizadores, chapeadores, caldereiros.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+        {
+          "codigo": "2.5.4",
+          "aplicacao": "Pintura",
+          "atividades": "Pintores de Pistola.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+
+        {
+          "codigo": "2.5.5",
+          "aplicacao": "Composição tipográfica e mecânica. Linotipia. Estereotipia. Eletrotipla. Litografia e Off-sett. Fotogravuras, Rotogravura e Gravura, Encadernação e Impressão em geral.",
+          "atividades": "Trabalhadores permanentes nas indústrias poligráficas: Linotipistas, monotipistas, tipógrafos, impressores, margeadores, montadores, compositores, pautadores, gravadores, granitadores, galvanotipistas, frezadores, titulistas.",
+          "classificacao": "Insalubre",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        },
+        {
+          "codigo": "2.5.6",
+          "aplicacao": "Estiva e Armazenagem",
+          "atividades": "Estivadores, Arrumadores, Trab. Capatazia, Consertadores, Conferentes.",
+          "classificacao": "Perigoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal ou especial fixada em Lei. Art. 278 CLT: item VII, quadro II, do art. 65 do Decreto nº 48.959-A, de 29.09.1960"
+        },
+        {
+          "codigo": "2.5.7",
+          "aplicacao": "Extinção de Fogo, Guarda",
+          "atividades": "Bombeiros, Investigadores, Guardas",
+          "classificacao": "Perigoso",
+          "tempo_minimo": "25 anos",
+          "observacoes": "Jornada normal."
+        }
+      ]
+    }
+  ]
+}
